@@ -4,7 +4,7 @@ import requests
 pushplus_token = os.environ.get('pushplus_token')
 topic = os.environ.get('topic')
 
-image_url = "https://api.jun.la/60s.php?format=image"
+image_url = "https://api.03c3.cn/api/zb"
 
 text_url = "https://api.03c3.cn/api/zb?type=text" # Invalid
 
